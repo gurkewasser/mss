@@ -46,7 +46,23 @@ In einem ersten Schritt wurden Einflussfaktoren unstrukturiert gesammelt (siehe 
 ---
 
 ## 4. Artefakt: Stakeholder Map
-*Hinweis: Hier muss eine grafische Darstellung der Einflusssphären eingefügt werden.*
+### Stakeholder Map (Einfluss-/Interessen-Matrix)
+
+**Achsen:**
+- **Einfluss (Power):** niedrig → hoch  
+- **Interesse (Interest):** niedrig → hoch  
+
+|                       | **Hohes Interesse** (betroffen/engagiert) | **Niedriges Interesse** (weniger betroffen) |
+|---|---|---|
+| **Hoher Einfluss** (steuert Entscheidungen/Umsetzung) | **A – aktiv managen**  <br>- ÖV-Betreiber (Betriebsplanung/Disposition) <br>- Stadt/Verkehrsplanung (Baustellenkoordination, Bewilligungen) | **B – zufrieden halten**  <br>- Polizei/Verkehrsmanagement (Verkehrsführung, Priorisierung) <br>- Bauunternehmen / Baustellenleitung (Timing, Ausführung) |
+| **Niedriger Einfluss** (wenig Steuerungsmacht) | **C – informieren & einbinden**  <br>- Fahrgäste (Pendler, Schüler:innen, mobilitätseingeschränkte Personen) <br>- Anwohnende entlang der Strecke | **D – beobachten**  <br>- Gelegenheitsnutzer / Touristen <br>- Nicht direkt betroffene Quartiere |
+
+**Nutzung im Projekt:**  
+- Quadrant **A**: aktive Einbindung (Abstimmungen/Workshops), da entscheidungsrelevant.  
+- Quadrant **B**: gezielte Koordination, um Blockaden zu vermeiden.  
+- Quadrant **C**: strukturierte Information + Feedbackkanäle (Akzeptanz/Compliance).  
+- Quadrant **D**: Monitoring, minimale Kommunikation.
+
 
 * **Fahrgäste:** Kern-Stakeholder (Nutzenmaximierer).
 * **Bus-Betrieb:** Direkt betroffen (Verlierer der Situation).
