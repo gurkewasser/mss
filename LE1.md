@@ -95,7 +95,7 @@ Das Diagramm nutzt ausschliesslich die in Abschnitt 3 definierten Variablen. Exo
 *Stabilisierende Faktoren.*
 
 * **B1: Betriebliche Anpassung**
-    `Pünktlichkeit` ↓ → `Verspätung` ↑ → `Taktung` (Intervention) ↑ → `Busfrequenz` ↑ → `Pünktlichkeit` / `Wartezeit` (korrigiert)
+    `Pünktlichkeit` ↓ → `Verspätung` ↑ → `Taktung` (Intervention) ↑ → `Busfrequenz` ↑ → `Pünktlichkeit` / `Wartezeit` (korrigiert) ↓
     *Beschreibung:* Der Betrieb reagiert auf Verspätungen mit mehr Fahrzeugen, um die Servicequalität wiederherzustellen.
 
 * **B2: Entlastung durch Meidung**
